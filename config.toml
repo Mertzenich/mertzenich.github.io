@@ -1,0 +1,53 @@
+baseURL = "https://mertzeni.ch"
+defaultContentLanguage = "en"
+hasCJKLanguage = true
+languageCode = "en"
+paginate = 5
+theme = "hugo-theme-texify"
+title = "Adam Mertzenich"
+
+pygmentsUseClasses = true
+
+[author]
+name = "Adam Mertzenich"
+
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[[menu.main]]
+  identifier = "post"
+  name = "Home"
+  url = "/"
+  weight = 1
+[[menu.main]]
+  identifier = "archives"
+  name = "Archives"
+  url = "/archives/"
+  weight = 2
+[[menu.main]]
+  identifier = "about"
+  name = "About"
+  url = "/about/"
+  weight = 3
+
+[params]
+  customCSS = []
+  dateFormat = "2006-01-02"
+  description = "Adam Mertzenich's personal blog"
+  enableFullRSS = true
+  enableHanEmph = true
+  enableMathjax = true
+  favicon = "/favicon.ico"
+  footnote = "Follow me on <a class=link href=https://github.com/Mertzenich>GitHub</a> or <a class=link href=/index.xml>RSS</a>"
+  keywords = ["blog", "articles", "programming", "religion"]
+
+# see https://utteranc.es for installation guide
+[params.utterances]
+  enable = false
+  repo = ""
+  issue_term = "pathname"
+  label = "Comment"
+  theme = "github-light"

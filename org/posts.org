@@ -1,0 +1,17 @@
+#+HUGO_SECTION: post
+#+HUGO_BASE_DIR: ../
+#+HUGO_WEIGHT: auto
+#+HUGO_AUTO_SET_LASTMOD: t
+
+* TODO Placeholder
+:PROPERTIES:
+:EXPORT_FILE_NAME: first-post
+:EXPORT_DATE: 2021-07-31
+:END:
+#+begin_description
+Placeholder
+#+end_description
+
+** Introduction
+** Body
+** Closing
