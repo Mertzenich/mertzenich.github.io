@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Adam Mertzenich</title>
-    <link>https://mertzeni.ch/</link>
+    <link>https://adam.mertzeni.ch/</link>
     <description>Recent content on Adam Mertzenich</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://mertzeni.ch/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://adam.mertzeni.ch/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://mertzeni.ch/about/</link>
+      <link>https://adam.mertzeni.ch/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://mertzeni.ch/about/</guid>
+      <guid>https://adam.mertzeni.ch/about/</guid>
       
       <description>&lt;p&gt;To do&amp;hellip;&lt;/p&gt;
 </description>
@@ -20,10 +20,10 @@
     
     <item>
       <title></title>
-      <link>https://mertzeni.ch/archives/</link>
+      <link>https://adam.mertzeni.ch/archives/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mertzeni.ch/archives/</guid>
+      <guid>https://adam.mertzeni.ch/archives/</guid>
       
       <description></description>
       

@@ -2,15 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mertzeni.ch/about/</loc>
+    <loc>https://adam.mertzeni.ch/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mertzeni.ch/archives/</loc>
+    <loc>https://adam.mertzeni.ch/archives/</loc>
   </url><url>
-    <loc>https://mertzeni.ch/</loc>
+    <loc>https://adam.mertzeni.ch/</loc>
   </url><url>
-    <loc>https://mertzeni.ch/categories/</loc>
+    <loc>https://adam.mertzeni.ch/categories/</loc>
   </url><url>
-    <loc>https://mertzeni.ch/tags/</loc>
+    <loc>https://adam.mertzeni.ch/tags/</loc>
   </url>
 </urlset>
